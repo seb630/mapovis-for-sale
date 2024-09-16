@@ -1,0 +1,5 @@
+.DS_Store
+.htaccess
+/mpvs/php/db_config.php
+.DS_Store
+!/code/*/.htaccess
